@@ -1,5 +1,6 @@
 #Bash profile to change the default terminal prompt and add some git information.
 #David Barnes
+#Adding a comment to cause the repo to reflect a change.
 
 if [ -f ~/.bashrc ]; then
   source ~/.bashrc
